@@ -1,5 +1,14 @@
-﻿# 💫 About Me:
-🔭 I’m currently working on **AI-powered projects and scalable backend systems**  <br>🤝 I’m looking to collaborate on **AI, RAG-based systems, and backend development**  <br>🤔 I’m looking for help with **advanced backend architectures & production-grade deployments**  <br>🌱 I’m currently learning **RAG, LangChain, LangGraph, and advanced backend development**  <br>💬 Ask me about **Software Development, DSA, Web Development, and Generative AI**  <br>⚡ Fun fact: I like to play badminton and watch anime 🎬🏸  <br>🌐 Check out my portfolio: [Rishi Thakkar🚀](https://fab-portfolio-kit.vercel.app/)  <br>
+﻿# 💫 About Me
+
+Hey! I’m **Rishi**, a 3rd-year CS student just exploring the tech world.  
+- 🔭 Playing around with **AI projects, RAG systems & backend stuff**  
+- ⚡ Occasionally doing **frontend with React** when I feel like it  
+- 🌱 Learning **LangChain, LangGraph & building things that scale**  
+- 🤝 Open to collabs on **AI, backend, or full-stack experiments**  
+- 💬 Ask me about **DSA, Web Dev & Generative AI**  
+- 🎬🏸 When not coding, I’m **watching anime or playing badminton**  
+- 🌐 Portfolio: [**Rishi Thakkar 🚀**](https://fab-portfolio-kit.vercel.app/)
+
 
 
 ## 🌐 Socials:
@@ -20,5 +29,6 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
